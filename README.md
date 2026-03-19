@@ -36,3 +36,5 @@ streamlit run app.py
 Notes:
 - The LLM conversion requires an OpenAI API key and `openai` installed. If not available, the system uses heuristic OCR cleaning.
 - For robust LaTeX->SymPy parsing, additional dependencies may be required.
+
+https://drive.google.com/file/d/1PoHRYMLfG8VCK1ytnwpgsSNcDBCoANOj/view?usp=drivesdk
